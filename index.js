@@ -1,4 +1,6 @@
 function createPost(){
-  
+
 }
-function postComment(){}
+function postComment(){
+
+}
