@@ -2,7 +2,7 @@ function createPost(){
 
 }
 function postComment() {
-  var commenter = document.getElementById("commenterName").value;
+  var commenter = document.getElementById("comment").value;
   var comment = document.getElementById("commentText").value;
 
   //insert comment into "comments" div in this format:
